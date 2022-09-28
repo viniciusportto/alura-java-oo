@@ -1,0 +1,315 @@
+Index: bytebank-herdado/.idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/bytebank-herdado/.idea/modules.xml b/bytebank-herdado/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1663795968310)
++++ b/bytebank-herdado/.idea/modules.xml	(date 1663795968310)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/bytebank-herdado.iml" filepath="$PROJECT_DIR$/bytebank-herdado.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: bytebank-herdado/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/bytebank-herdado/.idea/workspace.xml b/bytebank-herdado/.idea/workspace.xml
+new file mode 100644
+--- /dev/null	(date 1663795968317)
++++ b/bytebank-herdado/.idea/workspace.xml	(date 1663795968317)
+@@ -0,0 +1,37 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ChangeListManager">
++    <list default="true" id="4d7a0f83-1166-4d4d-9cf6-106c0a54ae13" name="Changes" comment="" />
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="ProjectId" id="2F5xp176gqfOFB027UDwYKzwQYI" />
++  <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showLibraryContents" value="true" />
++  </component>
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "WebServerToolWindowFactoryState": "false"
++  }
++}]]></component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++  <component name="TaskManager">
++    <task active="true" id="Default" summary="Default task">
++      <changelist id="4d7a0f83-1166-4d4d-9cf6-106c0a54ae13" name="Changes" comment="" />
++      <created>1663795928775</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1663795928775</updated>
++      <workItem from="1663795930025" duration="38000" />
++    </task>
++    <servers />
++  </component>
++  <component name="TypeScriptGeneratedFilesManager">
++    <option name="version" value="3" />
++  </component>
++</project>
+\ No newline at end of file
+Index: bytebank-encapsulado/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/bytebank-encapsulado/.idea/misc.xml b/bytebank-encapsulado/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1663654304801)
++++ b/bytebank-encapsulado/.idea/misc.xml	(date 1663654304801)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="openjdk-18" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1664329069534)
++++ b/.idea/modules.xml	(date 1664329069534)
+@@ -0,0 +1,13 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/Alura - Java OO.iml" filepath="$PROJECT_DIR$/.idea/Alura - Java OO.iml" />
++      <module fileurl="file://$PROJECT_DIR$/bytebank/bytebank.iml" filepath="$PROJECT_DIR$/bytebank/bytebank.iml" />
++      <module fileurl="file://$PROJECT_DIR$/bytebank-composto/bytebank-composto.iml" filepath="$PROJECT_DIR$/bytebank-composto/bytebank-composto.iml" />
++      <module fileurl="file://$PROJECT_DIR$/bytebank-encapsulado/bytebank-encapsulado.iml" filepath="$PROJECT_DIR$/bytebank-encapsulado/bytebank-encapsulado.iml" />
++      <module fileurl="file://$PROJECT_DIR$/bytebank-herdado/bytebank-herdado.iml" filepath="$PROJECT_DIR$/bytebank-herdado/bytebank-herdado.iml" />
++      <module fileurl="file://$PROJECT_DIR$/bytebank-herdado-conta/bytebank-herdado-conta.iml" filepath="$PROJECT_DIR$/bytebank-herdado-conta/bytebank-herdado-conta.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1664329973846)
++++ b/.idea/vcs.xml	(date 1664329973846)
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++    <mapping directory="$PROJECT_DIR$/bytebank" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: bytebank-herdado-conta/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/bytebank-herdado-conta/.idea/misc.xml b/bytebank-herdado-conta/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1663963026963)
++++ b/bytebank-herdado-conta/.idea/misc.xml	(date 1663963026963)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="openjdk-18" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/Alura - Java OO.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/Alura - Java OO.iml b/.idea/Alura - Java OO.iml
+new file mode 100644
+--- /dev/null	(date 1664329069488)
++++ b/.idea/Alura - Java OO.iml	(date 1664329069488)
+@@ -0,0 +1,9 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: bytebank-herdado/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/bytebank-herdado/.idea/misc.xml b/bytebank-herdado/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1663795968326)
++++ b/bytebank-herdado/.idea/misc.xml	(date 1663795968326)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="openjdk-18" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1664329171153)
++++ b/.idea/misc.xml	(date 1664329171153)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-18" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: bytebank-encapsulado/.idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/bytebank-encapsulado/.idea/modules.xml b/bytebank-encapsulado/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1663654304788)
++++ b/bytebank-encapsulado/.idea/modules.xml	(date 1663654304788)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/bytebank-encapsulado.iml" filepath="$PROJECT_DIR$/bytebank-encapsulado.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1664329070131)
++++ b/.idea/.gitignore	(date 1664329070131)
+@@ -0,0 +1,8 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Editor-based HTTP Client requests
++/httpRequests/
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
+Index: bytebank-encapsulado/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/bytebank-encapsulado/.idea/.gitignore b/bytebank-encapsulado/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1663654310231)
++++ b/bytebank-encapsulado/.idea/.gitignore	(date 1663654310231)
+@@ -0,0 +1,8 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Editor-based HTTP Client requests
++/httpRequests/
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
+Index: .idea/git_toolbox_prj.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/git_toolbox_prj.xml b/.idea/git_toolbox_prj.xml
+new file mode 100644
+--- /dev/null	(date 1664329277374)
++++ b/.idea/git_toolbox_prj.xml	(date 1664329277374)
+@@ -0,0 +1,15 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="GitToolBoxProjectSettings">
++    <option name="commitMessageIssueKeyValidationOverride">
++      <BoolValueOverride>
++        <option name="enabled" value="true" />
++      </BoolValueOverride>
++    </option>
++    <option name="commitMessageValidationEnabledOverride">
++      <BoolValueOverride>
++        <option name="enabled" value="true" />
++      </BoolValueOverride>
++    </option>
++  </component>
++</project>
+\ No newline at end of file
+Index: bytebank-herdado-conta/.idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/bytebank-herdado-conta/.idea/modules.xml b/bytebank-herdado-conta/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1663963026956)
++++ b/bytebank-herdado-conta/.idea/modules.xml	(date 1663963026956)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/bytebank-herdado-conta.iml" filepath="$PROJECT_DIR$/bytebank-herdado-conta.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: bytebank-herdado-conta/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/bytebank-herdado-conta/.idea/.gitignore b/bytebank-herdado-conta/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1663963027112)
++++ b/bytebank-herdado-conta/.idea/.gitignore	(date 1663963027112)
+@@ -0,0 +1,8 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Editor-based HTTP Client requests
++/httpRequests/
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
