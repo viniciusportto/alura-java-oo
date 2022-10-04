@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="773e1a27-4f59-471b-af2a-17bc827be95b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/TesteContas.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/TesteContas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-pilha/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-pilha/src/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-pilha/src/Fluxo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-pilha/src/Fluxo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-pilha/Conta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-pilha/Conta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-pilha/Fluxo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-pilha/Fluxo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-pilha/TesteEx.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FNOPC6ppfRxVgAG24uJ8kXEEdj" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,12 +58,20 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TesteEx">
+  <component name="RunManager" selected="Application.FluxoComError">
     <configuration name="Fluxo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fluxo" />
+      <module name="java-pilha" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FluxoComError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FluxoComError" />
       <module name="java-pilha" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,8 +93,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TesteEx" />
+        <item itemvalue="Application.FluxoComError" />
         <item itemvalue="Application.Fluxo" />
+        <item itemvalue="Application.TesteEx" />
         <item itemvalue="Application.TesteContas" />
       </list>
     </recent_temporary>
@@ -101,7 +112,7 @@
       <workItem from="1664332718825" duration="9174000" />
       <workItem from="1664677281359" duration="4106000" />
       <workItem from="1664857749279" duration="135000" />
-      <workItem from="1664857893860" duration="152000" />
+      <workItem from="1664857893860" duration="7608000" />
     </task>
     <task id="LOCAL-00001" summary="change text">
       <created>1664329270038</created>
