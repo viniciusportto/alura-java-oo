@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="773e1a27-4f59-471b-af2a-17bc827be95b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/ContaCorrente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/TesteContas.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/TesteContas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/TesteSaca.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/TesteSaca.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +119,7 @@
       <workItem from="1664857893860" duration="9485000" />
       <workItem from="1664957579224" duration="596000" />
       <workItem from="1665161615398" duration="23000" />
-      <workItem from="1665161806993" duration="2751000" />
+      <workItem from="1665161806993" duration="4117000" />
     </task>
     <task id="LOCAL-00001" summary="change text">
       <created>1664329270038</created>
