@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="773e1a27-4f59-471b-af2a-17bc827be95b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/TesteSaca.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/TesteSaca.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TesteSaca">
+  <component name="RunManager" selected="Application.TesteConexao">
     <configuration name="Fluxo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fluxo" />
       <module name="java-pilha" />
@@ -73,9 +72,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteContas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TesteContas" />
-      <module name="bytebank-herdado-conta" />
+    <configuration name="TesteConexao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesteConexao" />
+      <module name="java-pilha" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteConexao" />
         <item itemvalue="Application.TesteSaca" />
         <item itemvalue="Application.FluxoComError" />
         <item itemvalue="Application.Fluxo" />
         <item itemvalue="Application.TesteEx" />
-        <item itemvalue="Application.TesteContas" />
       </list>
     </recent_temporary>
   </component>
@@ -120,6 +119,7 @@
       <workItem from="1664957579224" duration="596000" />
       <workItem from="1665161615398" duration="23000" />
       <workItem from="1665161806993" duration="4117000" />
+      <workItem from="1665513019201" duration="1873000" />
     </task>
     <task id="LOCAL-00001" summary="change text">
       <created>1664329270038</created>
