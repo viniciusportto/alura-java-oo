@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="773e1a27-4f59-471b-af2a-17bc827be95b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-pilha/src/Conexao.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-pilha/src/Conexao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-pilha/src/TesteConexao.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-pilha/src/TesteConexao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +120,7 @@
       <workItem from="1664957579224" duration="596000" />
       <workItem from="1665161615398" duration="23000" />
       <workItem from="1665161806993" duration="4117000" />
-      <workItem from="1665513019201" duration="1873000" />
+      <workItem from="1665513019201" duration="3290000" />
     </task>
     <task id="LOCAL-00001" summary="change text">
       <created>1664329270038</created>
