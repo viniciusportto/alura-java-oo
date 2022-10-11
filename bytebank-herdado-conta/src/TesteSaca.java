@@ -8,7 +8,7 @@ public class TesteSaca {
         try {
             conta.saca(210.0);
         } catch (SaldoInsuficienteException ex) {
-            System.out.println("Ex: " + ex.getMessage());
+            System.out.println("Exception: " + ex.getMessage());
         }
         System.out.println(conta.getSaldo());
     }

@@ -10,8 +10,8 @@ public class TesteContas {
 
         cc.transfere(10.0, cp);
 
-        System.out.println("Conta corrente: " + cc.getSaldo());
-        System.out.println("Conta poupança: " + cp.getSaldo());
+        System.out.println("Conta Corrente: " + cc.getSaldo());
+        System.out.println("Conta Poupança: " + cp.getSaldo());
 
     }
 }
