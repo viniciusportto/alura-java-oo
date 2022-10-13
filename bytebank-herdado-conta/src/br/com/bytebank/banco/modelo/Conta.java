@@ -1,11 +1,25 @@
 package br.com.bytebank.banco.modelo;
 
+/**
+ * Class represents the frame of an account
+ *
+ *@author Vinicius Porto
+ *
+ */
+
 public abstract class Conta {
     protected double saldo;
     private int agencia;
     private int numero;
     private Cliente titular;
     private static int total;
+
+    /**
+     * Constructor to initialize the object from the agency and number.
+     *
+     *@param agencia
+     *@param numero
+     */
 
     public Conta(int agencia, int numero) {
         Conta.total++;
@@ -15,6 +29,13 @@ public abstract class Conta {
     }
 
     public abstract void deposita(double valor);
+
+    /**
+     *
+     *
+     *@param valor
+     *@throws SaldoInsuficienteException
+     */
 
     public void saca(double valor) throws SaldoInsuficienteException {
         if (this.saldo <= valor) {
