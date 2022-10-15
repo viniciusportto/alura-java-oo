@@ -14,9 +14,7 @@
   <component name="ChangeListManager">
     <list default="true" id="773e1a27-4f59-471b-af2a-17bc827be95b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/ContaCorrente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/ContaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/ContaPoupanca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/Cliente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +77,33 @@
       <recent name="C:\Users\vinic\projetos\alura-java\bytebank-herdado-conta\src\doc" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TesteObject">
+  <component name="RunManager" selected="Application.Solu">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.Main" />
+      <module name="bytebank-herdado-conta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bytebank.banco.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.Solu" />
+      <module name="bytebank-herdado-conta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bytebank.banco.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TesteBiblioteca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.alura.bytebank.TesteBiblioteca" />
       <module name="bytebank-biblioteca" />
@@ -110,27 +134,20 @@
       <option name="JAR_PATH" value="$USER_HOME$/OneDrive/Área de Trabalho/bytebank-herdado-conta.jar!/" />
       <method v="2" />
     </configuration>
-    <configuration name="bytebank-herdado-conta.jar" type="JarApplication" temporary="true">
-      <option name="JAR_PATH" value="$PROJECT_DIR$/bytebank-biblioteca/libs/bytebank-herdado-conta.jar" />
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/alura-java/bytebank-herdado-conta/doc/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
     <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Solu" />
       <item itemvalue="Application.TesteObject" />
       <item itemvalue="Application.TesteBiblioteca" />
-      <item itemvalue="JAR Application.bytebank-herdado-conta.jar" />
       <item itemvalue="JAR Application.bytebank-herdado-conta.jar (1)" />
-      <item itemvalue="JavaScript Debug.index.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solu" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.TesteObject" />
         <item itemvalue="Application.TesteBiblioteca" />
         <item itemvalue="JAR Application.bytebank-herdado-conta.jar (1)" />
-        <item itemvalue="JAR Application.bytebank-herdado-conta.jar" />
-        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +173,7 @@
       <workItem from="1665704078951" duration="3753000" />
       <workItem from="1665711567873" duration="39000" />
       <workItem from="1665712156863" duration="6019000" />
-      <workItem from="1665777536058" duration="1792000" />
+      <workItem from="1665777536058" duration="6843000" />
     </task>
     <task id="LOCAL-00001" summary="change text">
       <created>1664329270038</created>
