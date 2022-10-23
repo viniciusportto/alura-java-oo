@@ -14,7 +14,6 @@
   <component name="ChangeListManager">
     <list default="true" id="773e1a27-4f59-471b-af2a-17bc827be95b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/TesteArrayReferencias.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/TesteArrayReferencias.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +76,20 @@
       <recent name="C:\Users\vinic\projetos\alura-java\bytebank-herdado-conta\src\doc" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TesteArrayString">
+  <component name="RunManager" selected="Application.AmorPorIsa">
+    <configuration name="AmorPorIsa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.AmorPorIsa" />
+      <module name="bytebank-herdado-conta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bytebank.banco.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.Main" />
       <module name="bytebank-herdado-conta" />
@@ -140,34 +152,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.TesteObject" />
-      <module name="bytebank-herdado-conta" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.bytebank.banco.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.TesteArrayString" />
+      <item itemvalue="Application.AmorPorIsa" />
       <item itemvalue="Application.TesteArrayPrimitivo" />
       <item itemvalue="Application.TesteArrayReferencias" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Solu" />
-      <item itemvalue="Application.TesteObject" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AmorPorIsa" />
         <item itemvalue="Application.TesteArrayReferencias" />
         <item itemvalue="Application.TesteArrayPrimitivo" />
         <item itemvalue="Application.Solu" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.TesteObject" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +193,7 @@
       <workItem from="1665711567873" duration="39000" />
       <workItem from="1665712156863" duration="6019000" />
       <workItem from="1665777536058" duration="9998000" />
-      <workItem from="1666045170993" duration="15018000" />
+      <workItem from="1666045170993" duration="17870000" />
     </task>
     <task id="LOCAL-00001" summary="change text">
       <created>1664329270038</created>
