@@ -20,7 +20,7 @@ public class TesteArrayReferencias {
         ContaPoupanca cc2 = new ContaPoupanca(22, 22);
         referencias[1] = cc2;
 
-        System.out.println(referencias[0].getNumero());
+        System.out.println(referencias[1].getNumero());
 
         ContaPoupanca ref = (ContaPoupanca) referencias[1]; //type cast
         System.out.println(cc2.getNumero());
