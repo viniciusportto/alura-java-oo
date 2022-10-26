@@ -76,7 +76,7 @@
       <recent name="C:\Users\vinic\projetos\alura-java\bytebank-herdado-conta\src\doc" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AmorPorIsa">
+  <component name="RunManager" selected="Application.Teste">
     <configuration name="AmorPorIsa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.AmorPorIsa" />
       <module name="bytebank-herdado-conta" />
@@ -90,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.Main" />
+    <configuration name="Solu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.Solu" />
       <module name="bytebank-herdado-conta" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.Solu" />
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.Teste" />
       <module name="bytebank-herdado-conta" />
       <extension name="coverage">
         <pattern>
@@ -154,19 +154,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.TesteArrayString" />
+      <item itemvalue="Application.Teste" />
       <item itemvalue="Application.AmorPorIsa" />
       <item itemvalue="Application.TesteArrayPrimitivo" />
       <item itemvalue="Application.TesteArrayReferencias" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Solu" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Teste" />
         <item itemvalue="Application.AmorPorIsa" />
         <item itemvalue="Application.TesteArrayReferencias" />
         <item itemvalue="Application.TesteArrayPrimitivo" />
         <item itemvalue="Application.Solu" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -194,6 +194,7 @@
       <workItem from="1665712156863" duration="6019000" />
       <workItem from="1665777536058" duration="9998000" />
       <workItem from="1666045170993" duration="17870000" />
+      <workItem from="1666745453847" duration="2396000" />
     </task>
     <task id="LOCAL-00001" summary="change text">
       <created>1664329270038</created>
