@@ -14,8 +14,7 @@
   <component name="ChangeListManager">
     <list default="true" id="773e1a27-4f59-471b-af2a-17bc827be95b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/util/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/util/TesteArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/util/TesteArrayListEquals.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/util/TesteArrayListEquals.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,23 +53,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "openjdk-18",
-    "last_directory_selection": "C:/Users/vinic/projetos/alura-java/bytebank-herdado-conta/src/br/com/bytebank/banco/test",
-    "last_opened_file_path": "C:/Users/vinic/projetos/alura-java/out/artifacts/bytebank_herdado_conta_jar/bytebank-herdado-conta.jar",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "project.propCompiler"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/vinic/projetos/alura-java/bytebank-herdado-conta/src/br/com/bytebank/banco/test&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vinic/projetos/alura-java/out/artifacts/bytebank_herdado_conta_jar/bytebank-herdado-conta.jar&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\vinic\projetos\alura-java\bytebank-herdado-conta\doc" />
@@ -79,22 +78,9 @@
       <recent name="C:\Users\vinic\projetos\alura-java\bytebank-herdado-conta\src\doc" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TesteArrayListEquals">
-    <configuration name="AmorPorIsa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.AmorPorIsa" />
-      <module name="bytebank-herdado-conta" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.bytebank.banco.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.util.TesteArrayList" />
+  <component name="RunManager" selected="Application.TesteWrapper">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.util.Main" />
       <module name="bytebank-herdado-conta" />
       <extension name="coverage">
         <pattern>
@@ -129,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteGuardadorDeContas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.TesteGuardadorDeContas" />
+    <configuration name="TesteWrapper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.util.TesteWrapper" />
       <module name="bytebank-herdado-conta" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.bytebank.banco.test.*" />
+          <option name="PATTERN" value="br.com.bytebank.banco.test.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +128,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.TesteObject" />
+    <configuration name="TesteWrapperInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.util.TesteWrapperInteger" />
+      <module name="bytebank-herdado-conta" />
+      <option name="PROGRAM_PARAMETERS" value="12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bytebank.banco.test.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteWrapperInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.util.TesteWrapperInteger" />
       <module name="bytebank-herdado-conta" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.bytebank.banco.test.*" />
+          <option name="PATTERN" value="br.com.bytebank.banco.test.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,19 +157,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.TesteArrayString" />
-      <item itemvalue="Application.TesteArrayList" />
+      <item itemvalue="Application.TesteWrapper" />
+      <item itemvalue="Application.TesteWrapperInteger" />
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.TesteArrayListEquals" />
-      <item itemvalue="Application.TesteGuardadorDeContas" />
-      <item itemvalue="Application.TesteObject" />
-      <item itemvalue="Application.AmorPorIsa" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteWrapper" />
+        <item itemvalue="Application.TesteWrapperInteger" />
+        <item itemvalue="Application.TesteWrapperInteger" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.TesteArrayListEquals" />
-        <item itemvalue="Application.TesteArrayList" />
-        <item itemvalue="Application.TesteObject" />
-        <item itemvalue="Application.TesteGuardadorDeContas" />
-        <item itemvalue="Application.AmorPorIsa" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +196,8 @@
       <workItem from="1665712156863" duration="6019000" />
       <workItem from="1665777536058" duration="9998000" />
       <workItem from="1666045170993" duration="17870000" />
-      <workItem from="1666745453847" duration="7679000" />
+      <workItem from="1666745453847" duration="11191000" />
+      <workItem from="1666812158444" duration="7675000" />
     </task>
     <task id="LOCAL-00001" summary="change text">
       <created>1664329270038</created>
