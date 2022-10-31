@@ -14,7 +14,8 @@
   <component name="ChangeListManager">
     <list default="true" id="773e1a27-4f59-471b-af2a-17bc827be95b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/util/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/util/TesteOrdenacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/util/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/util/TesteAnonima.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/util/TesteOrdenacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/util/TesteOrdenacao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,9 +82,9 @@
       <recent name="br.com.bytebank.banco.test.util" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TesteOrdenacao">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.util.Main" />
+  <component name="RunManager" selected="Application.TestGlobant">
+    <configuration name="TestGlobant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.util.TestGlobant" />
       <module name="bytebank-herdado-conta" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteArrayListEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.util.TesteArrayListEquals" />
+    <configuration name="TesteAnonima" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.util.TesteAnonima" />
       <module name="bytebank-herdado-conta" />
       <extension name="coverage">
         <pattern>
@@ -114,6 +115,19 @@
       <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.TesteArrayString" />
       <module name="bytebank-herdado-conta" />
       <option name="PROGRAM_PARAMETERS" value="1 2 oi vini java rocks e eh legal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.util.TesteLambda" />
+      <module name="bytebank-herdado-conta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bytebank.banco.test.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -144,48 +158,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteWrapperInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.util.TesteWrapperInteger" />
-      <module name="bytebank-herdado-conta" />
-      <option name="PROGRAM_PARAMETERS" value="12" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.bytebank.banco.test.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteWrapperInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.util.TesteWrapperInteger" />
-      <module name="bytebank-herdado-conta" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.bytebank.banco.test.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.TesteArrayString" />
+      <item itemvalue="Application.TestGlobant" />
+      <item itemvalue="Application.TesteAnonima" />
+      <item itemvalue="Application.TesteLambda" />
       <item itemvalue="Application.TesteOrdenacao" />
       <item itemvalue="Application.TesteWrapper" />
-      <item itemvalue="Application.TesteWrapperInteger" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.TesteArrayListEquals" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestGlobant" />
         <item itemvalue="Application.TesteOrdenacao" />
+        <item itemvalue="Application.TesteLambda" />
+        <item itemvalue="Application.TesteAnonima" />
         <item itemvalue="Application.TesteWrapper" />
-        <item itemvalue="Application.TesteWrapperInteger" />
-        <item itemvalue="Application.TesteWrapperInteger" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +201,8 @@
       <workItem from="1665777536058" duration="9998000" />
       <workItem from="1666045170993" duration="17870000" />
       <workItem from="1666745453847" duration="11191000" />
-      <workItem from="1666812158444" duration="14388000" />
+      <workItem from="1666812158444" duration="17038000" />
+      <workItem from="1667194517413" duration="6958000" />
     </task>
     <task id="LOCAL-00001" summary="change text">
       <created>1664329270038</created>

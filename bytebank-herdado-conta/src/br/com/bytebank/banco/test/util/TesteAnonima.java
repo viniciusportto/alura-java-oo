@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
-public class Teste {
+public class TesteAnonima {
 
     public static void main(String[] args) {
 
