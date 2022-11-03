@@ -2,6 +2,8 @@
   <library name="bytebank-herdado-conta">
     <CLASSES />
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/java-io/src" />
+    </SOURCES>
   </library>
 </component>

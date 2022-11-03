@@ -13,9 +13,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="773e1a27-4f59-471b-af2a-17bc827be95b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/bytebank_herdado_conta.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/bytebank_herdado_conta.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/bytebank_herdado_conta1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/util/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/util/TesteAnonima.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/util/TesteOrdenacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/util/TesteOrdenacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/bytebank-herdado-conta.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/bytebank-herdado-conta.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,37 +56,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/vinic/projetos/alura-java/bytebank-herdado-conta/src/br/com/bytebank/banco/test&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vinic/projetos/alura-java/out/artifacts/bytebank_herdado_conta_jar/bytebank-herdado-conta.jar&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "openjdk-18",
+    "last_directory_selection": "C:/Users/vinic/projetos/alura-java/bytebank-herdado-conta/src/br/com/bytebank/banco/test",
+    "last_opened_file_path": "C:/Users/vinic/projetos/test",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vinic\projetos\alura-java\java-io" />
+      <recent name="C:\Users\vinic\projetos\alura-java\java-io\src" />
       <recent name="C:\Users\vinic\projetos\alura-java\bytebank-herdado-conta\doc" />
       <recent name="C:\Users\vinic\projetos\alura-java\bytebank-biblioteca\libs" />
       <recent name="C:\Users\vinic\projetos\alura-java\bytebank-herdado-conta" />
-      <recent name="C:\Users\vinic\projetos\alura-java\bytebank-herdado-conta\src\doc" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="br.com.bytebank.banco.test.util" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestGlobant">
-    <configuration name="TestGlobant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.util.TestGlobant" />
+  <component name="RunManager" selected="Application.TesteCopiarArquivo">
+    <configuration name="Carro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.util.Carro" />
       <module name="bytebank-herdado-conta" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteAnonima" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.util.TesteAnonima" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.util.Main" />
       <module name="bytebank-herdado-conta" />
       <extension name="coverage">
         <pattern>
@@ -119,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.util.TesteLambda" />
-      <module name="bytebank-herdado-conta" />
+    <configuration name="TesteCopiarArquivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.teste.TesteCopiarArquivo" />
+      <module name="java-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.bytebank.banco.test.util.*" />
+          <option name="PATTERN" value="br.com.alura.java.io.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteOrdenacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.util.TesteOrdenacao" />
-      <module name="bytebank-herdado-conta" />
+    <configuration name="TesteEscrita" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.teste.TesteEscrita" />
+      <module name="java-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.bytebank.banco.test.util.*" />
+          <option name="PATTERN" value="br.com.alura.java.io.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteWrapper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.util.TesteWrapper" />
-      <module name="bytebank-herdado-conta" />
+    <configuration name="TesteLeitura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.teste.TesteLeitura" />
+      <module name="java-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.bytebank.banco.test.util.*" />
+          <option name="PATTERN" value="br.com.alura.java.io.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,19 +163,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.TesteArrayString" />
-      <item itemvalue="Application.TestGlobant" />
-      <item itemvalue="Application.TesteAnonima" />
-      <item itemvalue="Application.TesteLambda" />
-      <item itemvalue="Application.TesteOrdenacao" />
-      <item itemvalue="Application.TesteWrapper" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TesteCopiarArquivo" />
+      <item itemvalue="Application.TesteEscrita" />
+      <item itemvalue="Application.TesteLeitura" />
+      <item itemvalue="Application.Carro" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestGlobant" />
-        <item itemvalue="Application.TesteOrdenacao" />
-        <item itemvalue="Application.TesteLambda" />
-        <item itemvalue="Application.TesteAnonima" />
-        <item itemvalue="Application.TesteWrapper" />
+        <item itemvalue="Application.TesteCopiarArquivo" />
+        <item itemvalue="Application.TesteEscrita" />
+        <item itemvalue="Application.TesteLeitura" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Carro" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +205,9 @@
       <workItem from="1666045170993" duration="17870000" />
       <workItem from="1666745453847" duration="11191000" />
       <workItem from="1666812158444" duration="17038000" />
-      <workItem from="1667194517413" duration="6958000" />
+      <workItem from="1667194517413" duration="7576000" />
+      <workItem from="1667250924620" duration="3348000" />
+      <workItem from="1667447154044" duration="14661000" />
     </task>
     <task id="LOCAL-00001" summary="change text">
       <created>1664329270038</created>
@@ -229,5 +234,9 @@
     <MESSAGE value="Exercises Alura" />
     <option name="LAST_COMMIT_MESSAGE" value="Exercises Alura" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
