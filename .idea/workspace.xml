@@ -12,10 +12,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="773e1a27-4f59-471b-af2a-17bc827be95b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-io/lorem2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/java-io/lorem2.txt" afterDir="false" />
-    </list>
+    <list default="true" id="773e1a27-4f59-471b-af2a-17bc827be95b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +80,7 @@
       <recent name="br.com.bytebank.banco.test.util" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TesteEscrita3">
+  <component name="RunManager" selected="Application.TimeMillis">
     <configuration name="TesteArrayString" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-18" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -146,8 +143,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteLeitura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.teste.TesteLeitura" />
+    <configuration name="TimeMillis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.teste.TimeMillis" />
       <module name="java-io" />
       <extension name="coverage">
         <pattern>
@@ -163,17 +160,17 @@
       <item itemvalue="Application.TesteArrayString" />
       <item itemvalue="Application.TesteEscrita2" />
       <item itemvalue="Application.TesteEscrita3" />
+      <item itemvalue="Application.TimeMillis" />
       <item itemvalue="Application.TesteCopiarArquivo" />
       <item itemvalue="Application.TesteEscrita" />
-      <item itemvalue="Application.TesteLeitura" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TimeMillis" />
         <item itemvalue="Application.TesteEscrita3" />
         <item itemvalue="Application.TesteEscrita2" />
         <item itemvalue="Application.TesteCopiarArquivo" />
         <item itemvalue="Application.TesteEscrita" />
-        <item itemvalue="Application.TesteLeitura" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +205,7 @@
       <workItem from="1667447154044" duration="16180000" />
       <workItem from="1667494644968" duration="16000" />
       <workItem from="1667720009450" duration="611000" />
-      <workItem from="1667963496478" duration="1595000" />
+      <workItem from="1667963496478" duration="1968000" />
     </task>
     <task id="LOCAL-00001" summary="change text">
       <created>1664329270038</created>
