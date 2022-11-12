@@ -13,9 +13,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="773e1a27-4f59-471b-af2a-17bc827be95b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gerenciador-de-cursos/src/br/com/alura/TestantoListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/gerenciador-de-cursos/src/br/com/alura/TestantoListas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +86,20 @@
       <recent name="br.com.bytebank.banco.test.util" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestantoListas">
+  <component name="RunManager" selected="Application.TestaListaDeAula">
+    <configuration name="TestaListaDeAula" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.TestaListaDeAula" />
+      <module name="gerenciador-de-cursos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestantoListas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.alura.TestantoListas" />
       <module name="gerenciador-de-cursos" />
@@ -124,19 +136,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteSerializacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.teste.TesteSerializacao" />
-      <module name="java-io" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.alura.java.io.teste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TesteSerializacaoCliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.teste.TesteSerializacaoCliente" />
       <module name="java-io" />
@@ -165,19 +164,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.TesteArrayString" />
+      <item itemvalue="Application.TestaListaDeAula" />
       <item itemvalue="Application.TestantoListas" />
       <item itemvalue="Application.TesteDeserializacao" />
-      <item itemvalue="Application.TesteSerializacao" />
       <item itemvalue="Application.TesteSerializacaoCliente" />
       <item itemvalue="Application.br.com.bytebank.banco.test.io.TesteSerializacao" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestaListaDeAula" />
         <item itemvalue="Application.TestantoListas" />
         <item itemvalue="Application.TesteDeserializacao" />
         <item itemvalue="Application.br.com.bytebank.banco.test.io.TesteSerializacao" />
         <item itemvalue="Application.TesteSerializacaoCliente" />
-        <item itemvalue="Application.TesteSerializacao" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +212,7 @@
       <workItem from="1667494644968" duration="16000" />
       <workItem from="1667720009450" duration="611000" />
       <workItem from="1667963496478" duration="2740000" />
-      <workItem from="1668104740525" duration="15004000" />
+      <workItem from="1668104740525" duration="17090000" />
     </task>
     <task id="LOCAL-00001" summary="change text">
       <created>1664329270038</created>

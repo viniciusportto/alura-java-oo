@@ -10,7 +10,7 @@ public class TestantoListas {
         String aula1 = "Conhecendo mais de listas";
         String aula2 = "Modelando a classe Aula";
         String aula3  = "Trabalhando com Cursos e Sets";
-        String aula4 = ("Aumentando nosso conhecimento");
+        String aula4 = "Aumentando nosso conhecimento";
 
         ArrayList<String> aulas = new ArrayList<>();
         aulas.add(aula1);
