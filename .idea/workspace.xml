@@ -15,7 +15,9 @@
     <list default="true" id="773e1a27-4f59-471b-af2a-17bc827be95b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-io/src/br/com/alura/java/io/teste/TesteSerializacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-io/src/br/com/alura/java/io/teste/TesteSerializacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/ContaCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/io/TesteSerializacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/io/TesteSerializacao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +89,7 @@
       <recent name="br.com.bytebank.banco.test.util" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TesteSerializacaoCliente">
+  <component name="RunManager" selected="Application.TesteDeserializacao">
     <configuration name="TesteArrayString" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-18" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -98,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteLeitura2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.teste.TesteLeitura2" />
-      <module name="java-io" />
+    <configuration name="TesteDeserializacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.io.TesteDeserializacao" />
+      <module name="bytebank-herdado-conta" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.alura.java.io.teste.*" />
+          <option name="PATTERN" value="br.com.bytebank.banco.test.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeMillis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.teste.TimeMillis" />
-      <module name="java-io" />
+    <configuration name="br.com.bytebank.banco.test.io.TesteSerializacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.io.TesteSerializacao" />
+      <module name="bytebank-herdado-conta" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.alura.java.io.teste.*" />
+          <option name="PATTERN" value="br.com.bytebank.banco.test.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,19 +167,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.TesteArrayString" />
-      <item itemvalue="Application.TesteLeitura2" />
+      <item itemvalue="Application.TesteDeserializacao" />
       <item itemvalue="Application.TesteSerializacao" />
       <item itemvalue="Application.TesteSerializacaoCliente" />
       <item itemvalue="Application.TesteUnicodeEEncoding" />
-      <item itemvalue="Application.TimeMillis" />
+      <item itemvalue="Application.br.com.bytebank.banco.test.io.TesteSerializacao" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteDeserializacao" />
+        <item itemvalue="Application.br.com.bytebank.banco.test.io.TesteSerializacao" />
         <item itemvalue="Application.TesteSerializacaoCliente" />
         <item itemvalue="Application.TesteSerializacao" />
         <item itemvalue="Application.TesteUnicodeEEncoding" />
-        <item itemvalue="Application.TesteLeitura2" />
-        <item itemvalue="Application.TimeMillis" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +215,7 @@
       <workItem from="1667494644968" duration="16000" />
       <workItem from="1667720009450" duration="611000" />
       <workItem from="1667963496478" duration="2740000" />
-      <workItem from="1668104740525" duration="10760000" />
+      <workItem from="1668104740525" duration="11809000" />
     </task>
     <task id="LOCAL-00001" summary="change text">
       <created>1664329270038</created>
