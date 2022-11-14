@@ -10,6 +10,7 @@ public class TestaListaDeAula {
         Aula a1 = new Aula("Revistando as ArraysLists", 21);
         Aula a2 = new Aula("Listas de Objetos", 20);
         Aula a3 = new Aula("Relacionamento de Listas e objetos", 15);
+        Aula a4 = new Aula("Fundamentos de Streams", 7);
 
         ArrayList<Aula> aulas = new ArrayList<>();
         aulas.add(a1);
