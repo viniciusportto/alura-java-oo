@@ -16,10 +16,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gerenciador-de-cursos/src/br/com/alura/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/gerenciador-de-cursos/src/br/com/alura/Aluno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gerenciador-de-cursos/src/br/com/alura/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/gerenciador-de-cursos/src/br/com/alura/Curso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gerenciador-de-cursos/src/br/com/alura/TestaCursoComAluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/gerenciador-de-cursos/src/br/com/alura/TestaCursoComAluno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/gerenciador-de-cursos/br/com/alura/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gerenciador-de-cursos/br/com/alura/Aluno.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/gerenciador-de-cursos/br/com/alura/Curso.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gerenciador-de-cursos/br/com/alura/Curso.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/gerenciador-de-cursos/br/com/alura/TestaCursoComAluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gerenciador-de-cursos/br/com/alura/TestaCursoComAluno.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +89,7 @@
       <recent name="br.com.bytebank.banco.test.util" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestaCursoComAluno">
+  <component name="RunManager" selected="Application.TestaBuscaAlunosNoCurso">
     <configuration name="TestaAlunos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.alura.TestaAlunos" />
       <module name="gerenciador-de-cursos" />
@@ -105,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestaCurso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.TestaCurso" />
+    <configuration name="TestaBuscaAlunosNoCurso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.TestaBuscaAlunosNoCurso" />
       <module name="gerenciador-de-cursos" />
       <extension name="coverage">
         <pattern>
@@ -170,18 +168,18 @@
     <list>
       <item itemvalue="Application.TesteArrayString" />
       <item itemvalue="Application.TestaAlunos" />
-      <item itemvalue="Application.TestaCurso" />
+      <item itemvalue="Application.TestaBuscaAlunosNoCurso" />
       <item itemvalue="Application.TestaCurso2" />
       <item itemvalue="Application.TestaCursoComAluno" />
       <item itemvalue="Application.TestaPerformance" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestaBuscaAlunosNoCurso" />
         <item itemvalue="Application.TestaCursoComAluno" />
         <item itemvalue="Application.TestaPerformance" />
         <item itemvalue="Application.TestaAlunos" />
         <item itemvalue="Application.TestaCurso2" />
-        <item itemvalue="Application.TestaCurso" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +216,7 @@
       <workItem from="1667720009450" duration="611000" />
       <workItem from="1667963496478" duration="2740000" />
       <workItem from="1668104740525" duration="19092000" />
-      <workItem from="1668637712403" duration="11818000" />
+      <workItem from="1668637712403" duration="15110000" />
     </task>
     <task id="LOCAL-00001" summary="change text">
       <created>1664329270038</created>
