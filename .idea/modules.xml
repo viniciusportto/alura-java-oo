@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/gerenciador-de-cursos/gerenciador-de-cursos.iml" filepath="$PROJECT_DIR$/gerenciador-de-cursos/gerenciador-de-cursos.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-io/java-io.iml" filepath="$PROJECT_DIR$/java-io/java-io.iml" />
       <module fileurl="file://$PROJECT_DIR$/../java-pilha/java-pilha.iml" filepath="$PROJECT_DIR$/../java-pilha/java-pilha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8/java8.iml" filepath="$PROJECT_DIR$/java8/java8.iml" />
     </modules>
   </component>
 </project>

@@ -13,11 +13,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="773e1a27-4f59-471b-af2a-17bc827be95b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gerenciador-de-cursos/src/br/com/alura/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/gerenciador-de-cursos/src/br/com/alura/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gerenciador-de-cursos/src/br/com/alura/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/gerenciador-de-cursos/src/br/com/alura/Curso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/gerenciador-de-cursos/br/com/alura/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gerenciador-de-cursos/br/com/alura/Aluno.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/gerenciador-de-cursos/br/com/alura/Curso.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gerenciador-de-cursos/br/com/alura/Curso.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,23 +53,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/vinic/projetos/alura-java/gerenciador-de-cursos/src&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vinic/projetos/alura-java&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "openjdk-18",
+    "last_directory_selection": "C:/Users/vinic/projetos/alura-java/gerenciador-de-cursos/src",
+    "last_opened_file_path": "C:/Users/vinic/projetos/alura-java/java8",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\vinic\projetos\alura-java\java-io\src" />
@@ -216,7 +213,7 @@
       <workItem from="1667720009450" duration="611000" />
       <workItem from="1667963496478" duration="2740000" />
       <workItem from="1668104740525" duration="19092000" />
-      <workItem from="1668637712403" duration="15110000" />
+      <workItem from="1668637712403" duration="16026000" />
     </task>
     <task id="LOCAL-00001" summary="change text">
       <created>1664329270038</created>
