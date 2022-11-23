@@ -14,6 +14,8 @@
   <component name="ChangeListManager">
     <list default="true" id="773e1a27-4f59-471b-af2a-17bc827be95b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gerenciador-de-cursos/src/br/com/alura/TestaAlunos.java" beforeDir="false" afterPath="$PROJECT_DIR$/gerenciador-de-cursos/src/br/com/alura/TestaAlunos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java8/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +62,7 @@
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "openjdk-18",
     "last_directory_selection": "C:/Users/vinic/projetos/alura-java/gerenciador-de-cursos/src",
-    "last_opened_file_path": "C:/Users/vinic/projetos/alura-java/java8",
+    "last_opened_file_path": "C:/Users/vinic/projetos/alura-java",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -213,6 +215,7 @@
       <workItem from="1667963496478" duration="2740000" />
       <workItem from="1668104740525" duration="19092000" />
       <workItem from="1668637712403" duration="17323000" />
+      <workItem from="1668997321796" duration="73000" />
     </task>
     <task id="LOCAL-00001" summary="change text">
       <created>1664329270038</created>
