@@ -11,7 +11,7 @@ public class TestaPerformance {
 
             long inicio = System.currentTimeMillis();
 
-            for (int i = 1; i <= 100000; i++) {
+            for (int i = 1; i <= 50000; i++) {
                 numeros.add(i);
             }
 

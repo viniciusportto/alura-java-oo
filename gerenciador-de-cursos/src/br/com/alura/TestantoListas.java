@@ -11,12 +11,14 @@ public class TestantoListas {
         String aula2 = "Modelando a classe Aula";
         String aula3  = "Trabalhando com Cursos e Sets";
         String aula4 = "Aumentando nosso conhecimento";
+        String aula5 = "Java Expert";
 
         ArrayList<String> aulas = new ArrayList<>();
         aulas.add(aula1);
         aulas.add(aula2);
         aulas.add(aula3);
         aulas.add(aula4);
+        aulas.add(aula5);
 
 
         System.out.println(aulas);
