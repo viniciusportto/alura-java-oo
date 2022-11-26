@@ -5,7 +5,7 @@ public class TestaGeteSet {
         Cliente vinicius = new Cliente();
         vinicius.setNome("Vinicius Porto");
         conta.setTitular(vinicius);
-        conta.getTitular().setProfissao("Programador");
+        conta.getTitular().setProfissao("Software Developer");
 
         System.out.println(conta.getAgencia());
         System.out.println(conta.getTitular().getNome());
