@@ -14,7 +14,11 @@
   <component name="ChangeListManager">
     <list default="true" id="773e1a27-4f59-471b-af2a-17bc827be95b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/ComparadorDeStringPorTamanho.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/ConsumidorDeStrings.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/java8/src/OrdenaStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/OrdenaStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java8/ConsumidorDeStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java8/OrdenaStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java8/OrdenaStrings.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +215,9 @@
       <workItem from="1668997321796" duration="73000" />
       <workItem from="1669211936923" duration="200000" />
       <workItem from="1669848814876" duration="647000" />
-      <workItem from="1669849573377" duration="1511000" />
+      <workItem from="1669849573377" duration="2132000" />
+      <workItem from="1669933104747" duration="592000" />
+      <workItem from="1670455385500" duration="1481000" />
     </task>
     <task id="LOCAL-00001" summary="change text">
       <created>1664329270038</created>
