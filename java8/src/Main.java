@@ -1,7 +1,5 @@
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
-import java.util.Optional;
+import java.util.*;
+import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 public class Main {
@@ -22,10 +20,14 @@ public class Main {
 
         System.out.println(soma);
 
-         cursos.stream()
+        Map mapa = cursos
+                .stream()
                 .filter(c -> c.getAlunos() > 100)
-                .findAny()
-                .ifPresent(c -> System.out.println(c.getNome()));
+                .collect(Collectors.toMap(c -> c.getNome(), c -> c.getAlunos()));
+
+        List<Curso> resultados = cursos.stream()
+                .filter(c -> c.getAlunos() > 100)
+                .collect(Collectors.toList());
 
 
     }

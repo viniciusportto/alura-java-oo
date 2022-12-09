@@ -13,9 +13,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="773e1a27-4f59-471b-af2a-17bc827be95b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java8/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java8/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +207,7 @@
       <workItem from="1669849573377" duration="2132000" />
       <workItem from="1669933104747" duration="592000" />
       <workItem from="1670455385500" duration="6787000" />
-      <workItem from="1670616096850" duration="1657000" />
+      <workItem from="1670616096850" duration="1956000" />
     </task>
     <task id="LOCAL-00001" summary="change text">
       <created>1664329270038</created>
