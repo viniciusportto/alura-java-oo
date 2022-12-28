@@ -14,8 +14,9 @@
   <component name="ChangeListManager">
     <list default="true" id="773e1a27-4f59-471b-af2a-17bc827be95b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-testes-unitarios-tdd/src/main/java/br/com/alura/tdd/modelo/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-testes-unitarios-tdd/src/main/java/br/com/alura/tdd/modelo/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-testes-unitarios-tdd/src/main/java/br/com/alura/tdd/modelo/Desempenho.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-testes-unitarios-tdd/src/main/java/br/com/alura/tdd/modelo/Desempenho.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-testes-unitarios-tdd/src/main/java/br/com/alura/tdd/service/ReajusteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-testes-unitarios-tdd/src/main/java/br/com/alura/tdd/service/ReajusteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-testes-unitarios-tdd/src/test/br/com/alura/tdd/service/ReajusteServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-testes-unitarios-tdd/src/test/br/com/alura/tdd/service/ReajusteServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,13 +97,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.ReajusteServiceTest">
-    <configuration name="Data" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Data" />
-      <module name="java8" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TesteArrayString" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-18" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -159,6 +153,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReajusteServiceTest.reajusteDeveriaSerDeQuinzePorCentoQuandoDesempenhoForBom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-testes-unitarios-tdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.br.com.alura.tdd.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.br.com.alura.tdd.service" />
+      <option name="MAIN_CLASS_NAME" value="test.br.com.alura.tdd.service.ReajusteServiceTest" />
+      <option name="METHOD_NAME" value="reajusteDeveriaSerDeQuinzePorCentoQuandoDesempenhoForBom" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test in java-testes-unitarios-tdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-testes-unitarios-tdd" />
       <extension name="coverage">
@@ -175,8 +185,8 @@
     </configuration>
     <list>
       <item itemvalue="Application.TesteArrayString" />
-      <item itemvalue="Application.Data" />
       <item itemvalue="JUnit.ReajusteServiceTest" />
+      <item itemvalue="JUnit.ReajusteServiceTest.reajusteDeveriaSerDeQuinzePorCentoQuandoDesempenhoForBom" />
       <item itemvalue="JUnit.BonusServiceTest" />
       <item itemvalue="JUnit.BonusServiceTest.bonusDeveriaSer10PorCentoDoSalario" />
       <item itemvalue="JUnit.test in java-testes-unitarios-tdd" />
@@ -184,10 +194,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ReajusteServiceTest" />
+        <item itemvalue="JUnit.ReajusteServiceTest.reajusteDeveriaSerDeQuinzePorCentoQuandoDesempenhoForBom" />
         <item itemvalue="JUnit.BonusServiceTest" />
         <item itemvalue="JUnit.BonusServiceTest.bonusDeveriaSer10PorCentoDoSalario" />
         <item itemvalue="JUnit.test in java-testes-unitarios-tdd" />
-        <item itemvalue="Application.Data" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +245,7 @@
       <workItem from="1671666428231" duration="6692000" />
       <workItem from="1671680477223" duration="1058000" />
       <workItem from="1671681558493" duration="5270000" />
-      <workItem from="1672198782753" duration="1667000" />
+      <workItem from="1672198782753" duration="2535000" />
     </task>
     <task id="LOCAL-00001" summary="change text">
       <created>1664329270038</created>

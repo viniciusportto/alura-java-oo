@@ -1,5 +1,5 @@
 package br.com.alura.tdd.modelo;
 
 public enum Desempenho {
-    A_Desejar
+    BOM, OTIMO, A_Desejar
 }
